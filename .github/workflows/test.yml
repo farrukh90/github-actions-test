@@ -25,5 +25,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        uses: farrukh90/github-actions-release@12.0.0
+        uses: farrukh90/github-actions-release@13.0.0
 
